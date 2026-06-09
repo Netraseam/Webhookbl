@@ -1,4 +1,4 @@
-# PromateGuard Custom Software License (PSL-1.0)
+# PromateGuard License V0.1
 
 ## Copyright
 
