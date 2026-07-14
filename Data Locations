@@ -1,8 +1,0 @@
-📁 ServerScriptService
-┗━ 📁 PromateGuard (Folder)
-   ┣━ 📁 combat (ModuleScript)
-   ┣━ 📁 data (ModuleScript)
-   ┣━ 📁 logger (ModuleScript)
-   ┣━ 📁 starte (Script)
-   ┣━ 📁 indecate (ModuleScript)
-   ┗━ 📁 honeypot (ModuleScript)
