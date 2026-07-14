@@ -1,4 +1,4 @@
-![Webhookbl Logo](logo.png)
+![Webhookbl Logo](stunnblaa.png)
 
 # Webhookbl
 
