@@ -2,7 +2,7 @@
 
 # Webhookbl
 
-A webhook blacklist management tool for managing and blacklisting webhooks efficiently.
+A webhook roblox managmnet tool for managing and blacklisting webhooks efficiently.
 
 ## Features
 
@@ -11,9 +11,10 @@ A webhook blacklist management tool for managing and blacklisting webhooks effic
 - Simple and intuitive interface
 - Fast and lightweight
 - Easy to self-host
+- Has over 10+ features
 
 ## Installation
 
-```bash
-git clone https://github.com/Netraseam/Webhookbl.git
-cd Webhookbl
+```Data Location
+
+
