@@ -5,7 +5,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 # Webhookbl
 
-An advanced Roblox webhook management tool for managing and blacklisting webhooks efficiently.
+An advanced Roblox webhook management tool for managing, blacklisting and more other wonderful features for your roblox game, webhooks efficiently.
 
 ## Features
 
