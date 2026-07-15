@@ -18,4 +18,4 @@ A webhook roblox managmnet tool for managing and blacklisting webhooks efficient
 ```Data Location
 ```
 
-![Webhookbl Logo](stunnblaa.png)
+![Webhookbl Logo](image (3).png)
