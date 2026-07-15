@@ -1,4 +1,7 @@
 ![Webhookbl Logo](stunnblaa.png)
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 # Webhookbl
 
@@ -19,3 +22,5 @@ An advanced Roblox webhook management tool for managing and blacklisting webhook
 ```
 
 ![Webhookbl Logo](image.png)
+
+
