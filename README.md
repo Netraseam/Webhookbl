@@ -2,7 +2,7 @@
 
 # Webhookbl
 
-A webhook roblox managmnet tool for managing and blacklisting webhooks efficiently.
+An advanced Roblox webhook management tool for managing and blacklisting webhooks efficiently.
 
 ## Features
 
@@ -11,7 +11,7 @@ A webhook roblox managmnet tool for managing and blacklisting webhooks efficient
 - Simple and intuitive interface
 - Fast and lightweight
 - Easy to self-host
-- Has over 10+ features
+- Has over 10 features
 
 ## Installation
 
