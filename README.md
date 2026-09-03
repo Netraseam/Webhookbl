@@ -20,7 +20,3 @@ An advanced Roblox webhook management tool for managing, blacklisting and more o
 
 ```Data Location
 ```
-
-![Webhookbl Logo](image.png)
-
-
